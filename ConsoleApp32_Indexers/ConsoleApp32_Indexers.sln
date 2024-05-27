@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp32_Indexers", "ConsoleApp32_Indexers.csproj", "{82DDD29F-2986-4729-A806-D4CD7C761E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DDD29F-2986-4729-A806-D4CD7C761E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DDD29F-2986-4729-A806-D4CD7C761E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DDD29F-2986-4729-A806-D4CD7C761E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DDD29F-2986-4729-A806-D4CD7C761E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F9A70C3-4411-403F-855C-EBB7C59ED5D8}
+	EndGlobalSection
+EndGlobal
