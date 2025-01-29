@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp36_Constructors_for_Derived_class_and_Inheritance", "ConsoleApp36_Constructors_for_Derived_class_and_Inheritance.csproj", "{AD5D10E5-F455-45A6-8AE3-479369A2A6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5D10E5-F455-45A6-8AE3-479369A2A6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5D10E5-F455-45A6-8AE3-479369A2A6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5D10E5-F455-45A6-8AE3-479369A2A6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5D10E5-F455-45A6-8AE3-479369A2A6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE777A47-D885-4528-BA1F-97490F4CDF08}
+	EndGlobalSection
+EndGlobal

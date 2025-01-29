@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp38_Real_World_Eg_Downcasting", "WpfApp38_Real_World_Eg_Downcasting.csproj", "{04FFE9B3-27B0-4923-9751-DCD6087B1421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FFE9B3-27B0-4923-9751-DCD6087B1421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FFE9B3-27B0-4923-9751-DCD6087B1421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FFE9B3-27B0-4923-9751-DCD6087B1421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FFE9B3-27B0-4923-9751-DCD6087B1421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C1E6F7-C861-4BDD-9DBC-B7C6D3982E72}
+	EndGlobalSection
+EndGlobal

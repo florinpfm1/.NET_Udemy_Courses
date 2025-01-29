@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfApp38_Real_World_Eg_Downcasting.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp38_Real_World_Eg_Downcasting"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
